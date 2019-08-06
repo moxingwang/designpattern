@@ -4,6 +4,6 @@ import top.moxingwang.designpattern.factory.Pizza;
 
 public class SimpleFactory {
     public Pizza createPizza(String type){
-
+        Pizza
     }
 }
