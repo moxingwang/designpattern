@@ -1,4 +1,4 @@
-package top.moxingwang.designpattern.factory.factorymethod;
+package top.moxingwang.designpattern.factory;
 
 public abstract class Pizza {
     String name;
