@@ -1,9 +1,9 @@
 package top.moxingwang.designpattern.factory.abstractfactory;
 
-public class ClamPizza extends Pizza{
+public class NYPizza extends Pizza{
     private PizzaIngredientFactory factory;
 
-    public ClamPizza(PizzaIngredientFactory factory) {
+    public NYPizza(PizzaIngredientFactory factory) {
         this.factory = factory;
     }
 
