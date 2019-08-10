@@ -9,6 +9,7 @@ public abstract class CaffeineBeverage {
         hook();
     }
 
+    //钩子
     protected void hook() {
 
     }
